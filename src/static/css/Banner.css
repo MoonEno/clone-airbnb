@@ -1,0 +1,18 @@
+.banner {
+    height: 50vh;
+    position: relative;
+    background : url('https://imagesvc.meredithcorp.io/v3/mm/image?url=https://static.onecms.io/wp-content/uploads/sites/28/2019/06/airbnb-luxe-wanaka-new-zealand-ABLUX0619.jpg')
+}
+
+.banner_info {
+    background-color: black;
+    color: white;
+    padding: 25vh 50px 20px 50px;
+    width: 300px;
+}
+
+.banner_info > button {
+    background-color: #ff7799;
+    color: white;
+    text-transform: inherit;
+}
